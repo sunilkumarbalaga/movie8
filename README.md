@@ -6,18 +6,20 @@ My project movie trailer is about containing my set of favourite movies and on c
 
 Stack used:-
 
-Front end : html,css,javascript
+1.Front end : html,css,javascript
 
-Backend : python cgi model
+2.Backend : python cgi model
 
 Requirements:
-Python3
 
-Modern browser
+*Python3
 
-Python packages:cgi model
+*Modern browser
+
+*Python packages:cgi model
 
 Local development
+
 Clone this Repository.
 
 Change the directory.
