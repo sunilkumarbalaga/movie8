@@ -6,6 +6,19 @@ print("Content-type:text/html \n")
 
 
 class Movie():
+    '''
+    class Movie():
+    In this Class Movie set of attributes are declared to run
+    movie trailer project.
+
+    Attributes:
+    attr1 (cineMax): Title of the movie.
+    attr2 (cineLine): About the story line of the movie.
+    attr3 (cinePostImage): Poster image of the movie.
+    attr4 (cineTube): About youtube link  of the movie trailer.
+
+    '''
+
     VALID_RATIngs = ["EXCELLENT", "GOOD", "AVERAGE", "BAD"]
 
     def __init__(self, movie_title, movie_storyline, poster_image,
